@@ -2,16 +2,19 @@
 
 # Hi there, I'm Riya Patel! 👋
 
-🎓 I'm currently pursuing a Master's in Applied Computer Science at Dalhousie University, with a strong focus on practical application and problem-solving.
+🎓 I'm currently pursuing a Master's in Applied Computer Science at Dalhousie University, with a strong focus on practical application and problem-solving. 
 
-## 💻 Tech Stack & Skills
+## 🌱 Interests
 
-- 🌐 Full-stack development using **MERN** and **MEAN** stacks.
-- 🛢️ Databases: **MySQL** and **MongoDB**.
-- ☁️ Cloud Platforms: Proficient in **AWS** and **GCP**.
+- Exploring new technologies and frameworks.
+- Building scalable and innovative solutions.
 
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/riya-patel-3a19a01b8/ 
+- Email: ry470536@dal.ca
   
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 Feel free to check out my repositories, and let's connect if you're interested in collaborating or discussing anything tech-related! 🚀
 
